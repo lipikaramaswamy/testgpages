@@ -1,4 +1,3 @@
-
 ---
 title: Models
 nav_include: 2
